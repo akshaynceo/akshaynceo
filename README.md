@@ -1,4 +1,4 @@
-### Hi there, I'm AKSHAY N - aka [AKSHAYNCEO][website] 👋
+### Hi there 👋, I'm AKSHAY N - aka [AKSHAYNCEO][website] 👋
 
 ## I'm a Student, ReactJS Developer, and Teacher!!
 
@@ -17,6 +17,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/akshaynceo)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/akshaynceo)
 
 ### Languages and Tools:
 
@@ -39,6 +42,26 @@
 
 <br />
 <br />
+
+<a href="https://github.com/akshaynceo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaynceo&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/akshaynceo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaynceo&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/iampawan/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+
+</a>
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 [website]: https://akshaynceo.netlify.app
 [vscode]: https://code.visualstudio.com
