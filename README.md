@@ -16,13 +16,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/akshaynceo)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/akshaynceo)
-
-<br />
-
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
